@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class Board : MonoBehaviour
 {
+
+
+
+
     public int[,] Chess;
     int WidthX = 8; //가로 최대 길이
     int WidthZ = 8; //세로 최대 길이
