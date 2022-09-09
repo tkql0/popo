@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BoardManager : MonoSingleTon<BoardManager>
 {
+    // jun ski is ddong mung ghung eee
     public Board board = new Board();
     public UnitSet unitSet = new UnitSet();
 
